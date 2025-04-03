@@ -6,11 +6,11 @@ I worked as a Research Assistant in the fields of Deep learning & AI, and as a T
 Reach out to me for any queries: <br>
 Email: jareenanjom02@gmail.com /
 
-Programming Languages: Python, Java, Kotlin, PHP
-AI & Machine Learning: TensorFlow, PyTorch, Pandas
-Web/App Dev: HTML/ CSS, Django, Odoo, Android Studio
-Databases: MySQL, MS-SQL, SQLlite
-Others: Git, MS Office, LaTeX
+**Programming Languages:** Python, Java, Kotlin, PHP <br>
+**AI & Machine Learning:** TensorFlow, PyTorch, Pandas <br>
+**Web/App Dev:** HTML/ CSS, Django, Odoo, Android Studio <br>
+**Databases:** MySQL, MS-SQL, SQLlite <br>
+**Others:** Git, MS Office, LaTeX <br>
 <!---
 jareenanjom/jareenanjom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
