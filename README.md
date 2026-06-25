@@ -5,8 +5,10 @@ Previously, I worked as a Research Assistant in the fields of Deep learning & AI
 
 Reach out to me for any queries: <br>
 Email: jareenanjom02@gmail.com / <br>
+<br>
 or just visit my website for the latest updates: <br>
 jareenanjom.github.io / <br>
+<br>
 **Programming Languages:** Python, Java, Kotlin, React, JS <br>
 **AI & Machine Learning:** TensorFlow, PyTorch, Pandas <br>
 **Web/App Dev:** HTML/ CSS, Django, Android Studio <br>
