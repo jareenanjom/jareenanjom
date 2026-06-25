@@ -4,12 +4,12 @@ I am an enthusiast eager to innovate and contribute to the realms of AI. I aim t
 Previously, I worked as a Research Assistant in the fields of Deep learning & AI, and as a Teaching Assistant for the course CSE311 [Database Systems] at NSU. <br> <br>
 
 Reach out to me for any queries: <br>
-Email: jareenanjom02@gmail.com /
+Email: jareenanjom02@gmail.com / <br>
 or just visit my website for the latest updates: <br>
-jareenanjom.github.io /
-**Programming Languages:** Python, Java, Kotlin, PHP <br>
+jareenanjom.github.io / <br>
+**Programming Languages:** Python, Java, Kotlin, React, JS <br>
 **AI & Machine Learning:** TensorFlow, PyTorch, Pandas <br>
-**Web/App Dev:** HTML/ CSS, Django, Odoo, Android Studio <br>
+**Web/App Dev:** HTML/ CSS, Django, Android Studio <br>
 **Databases:** MySQL, MS-SQL, SQLlite <br>
 **Others:** Git, MS Office, LaTeX <br>
 <!---
